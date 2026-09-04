@@ -1,4 +1,4 @@
-# UNIVERSIDAD CATÓLICA BOLIVIANA "SAN PABLO"
+# UNIVERSIDAD CATÓLICA BOLIVIANA "SAN PABLO" 2-2026
 ## Sede: Santa Cruz
 
 ### Carrera: Ingeniería Industrial
